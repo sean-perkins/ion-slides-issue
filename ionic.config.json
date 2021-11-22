@@ -1,0 +1,7 @@
+{
+  "name": "ion-slides-router-outlet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
